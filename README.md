@@ -45,7 +45,7 @@ All will run on startup. You should adjust the configuration to your needs.
 Log in as root
 cd ~
 git clone https://github.com/JesperNaarttijarvi/minotaur-centos-install.git
-cd minotaur-install-centos
+cd minotaur-centos-install
 sudo ./build.sh
 ````
 
