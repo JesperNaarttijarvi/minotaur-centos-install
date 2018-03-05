@@ -1,0 +1,16 @@
+---
+- name: deploy miner
+  hosts: all
+  become: true
+
+  roles:
+  - system
+  - xorg
+  - nvidia
+  - ccminer
+  - ccminer2
+  - ethminer
+  - excavator
+  - excavataur
+  - gpustatd
+  - minotaur

@@ -8,17 +8,17 @@ This installation is tested with a fresh install of centos 7 minimal server
 - Cuda driver > 9.0         | check below if needed to install
 - Git (used for git clone)  | check below if needed to install
 
-# Install nvidia drivers
+Install nvidia drivers
 ````
 Released next commit
 ````
 
-# Install Cuda driver 
+Install Cuda driver 
 ````
 Released next commit
 ````
 
-# Install git
+Install git
 ````
 yum install git
 ````
@@ -102,4 +102,4 @@ THE SOFTWARE.
 
 
 ## Credits
-All credits go to Mark Wadham and the minotaur project 
+All credits go to Mark Wadham and the minotaur project: https://github.com/m4rkw/minotaur
